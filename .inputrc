@@ -3,7 +3,7 @@
 "\e[B": history-search-forward
 
 # Faster tab-completion
-set show-all-if-ambigous  on
+set show-all-if-ambiguous  on
 #set show-all-if-unmodified  on
 
 #Add some color
